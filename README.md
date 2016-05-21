@@ -9,7 +9,7 @@ Despite its namesake, DSload currently does not support launching of NDS files b
 ## Usage instructions:
 
 * Extract dsload.nds into your flash card of choice for your DS.
-* Make sure you have WFC settings on your DS properly configured to connect to your router, you can use any Nintendo WFC compatible game to change the WFC settings.
+* Make sure you have the WFC settings on your DS properly configured to connect to your router, you can use any Nintendo WFC compatible game to configure the WFC settings.
 * Launch dsload.nds on your DS, it should display your DS's IP address once it successfully initializes WiFi and has connected to your router.
 * Use the PC based command line tool to send files to your DS, specify the IP address of your DS with the -ip switch (or DSLOAD environment variable) along with the names of files you wish to send.
 
