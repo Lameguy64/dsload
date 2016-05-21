@@ -16,7 +16,7 @@ Despite its namesake, DSload currently does not support launching of NDS files b
 ## Tips/Notes:
 
 * Configure your router's DHCP settings and assign a fixed IP address for your DS by its MAC address. You may also want to set a DSLOAD environment variable with a value of your DS's IP address.
-* Using the -shutdown argument on the PC side tool would either shutdown the DS or return you to your flash card's menu once files have been sent to the console depending on the flash card or firmware you use.
+* Using the -shutdown argument on the PC side tool would either shutdown the DS or return you to your flash card's menu once files have been sent to the console depending on the flash card and/or firmware you use.
 
 ## Planned and Upcoming Features:
 
