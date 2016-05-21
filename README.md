@@ -4,7 +4,7 @@ DSload is a basic but fairly reliable send-only file transfer utility that allow
 
 Despite its namesake, DSload currently does not support launching of NDS files but it may be implemented in a future update.
 
-[Download Binary Here (v0.25)](http://lameguy64.github.io/dsload-0.25.zip)
+[Download Binary Here (v0.25)](http://lameguy64.github.io/dsload/dsload-0.25.zip)
 
 ## Usage instructions:
 
