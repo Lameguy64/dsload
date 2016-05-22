@@ -1,0 +1,5 @@
+*.layout
+*.elf
+*.nds
+build
+pages
